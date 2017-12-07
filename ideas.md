@@ -36,6 +36,9 @@ Montajes
 
 [Etiquetas](https://es.aliexpress.com/store/product/WEMOS-GPIO-Reference-Card-V1-0-0-for-Raspberry-Pi-Model-B-Pi-2-Pi-3/1331105_32787522447.html)
 
+[Manual del kit de electrónica](https://www.velleman.eu/downloads/29/vmp502_a4v01.pdf)
+[Código de los ejemplos (python y c++)](https://www.velleman.eu/downloads/files/downloads/vmp502_code_pi.zip)
+
 ## Administracion
 
 Linux avanzado
