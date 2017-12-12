@@ -39,6 +39,9 @@ Montajes
 [Manual del kit de electrónica](https://www.velleman.eu/downloads/29/vmp502_a4v01.pdf)
 [Código de los ejemplos (python y c++)](https://www.velleman.eu/downloads/files/downloads/vmp502_code_pi.zip)
 
+[Android of things: raspberry controlled car](https://www.survivingwithandroid.com/2017/12/building-a-remote-controlled-car-using-android-things-gpio.html)
+
+[Android of things tutorial](https://www.survivingwithandroid.com/2017/01/android-things-android-internet-of-things.html)
 ## Administracion
 
 Linux avanzado
