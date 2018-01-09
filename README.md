@@ -99,7 +99,7 @@ Para la parte de programación y electrónica harían falta los siguientes mater
   * **Si**
   * No
 1. En caso afirmativo comenta el proyecto que hiciste
-1. Para un proyecto donde se un un cámara usarías
+1. Para un proyecto donde se trabaje con una cámara (visión artificial) ¿qué plataforma usarías?
   * Arduino
   * **Raspberry**
 1. Para instalar un sistema operativo en Raspberry usarías:
@@ -110,4 +110,3 @@ Para la parte de programación y electrónica harían falta los siguientes mater
   * Arduino
   * **Un smarfphone**
   * Un portatil moderno
-  
