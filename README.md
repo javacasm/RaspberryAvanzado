@@ -108,5 +108,5 @@ Para la parte de programación y electrónica harían falta los siguientes mater
   * **Una tarjeta SD**
 1. Raspbery pi tiene una potencia de procesamiento similar a
   * Arduino
-  * **Un smarfphone**
+  * **Un smartphone**
   * Un portatil moderno
