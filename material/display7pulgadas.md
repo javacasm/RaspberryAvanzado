@@ -40,4 +40,8 @@ Modificamos el fichero /boot/config.txt
 
 [Foro](https://www.raspberrypi.org/forums/viewtopic.php?t=163810)
 
+[foro 2](https://www.raspberrypi.org/forums/viewtopic.php?t=121263)
+
+[Foro 3](https://www.raspberrypi.org/forums/viewtopic.php?t=120793)
+
 [Resolución de problemas con el teclado](https://www.raspberrypi.org/documentation/hardware/display/troubleshooting.md)
