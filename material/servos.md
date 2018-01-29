@@ -5,6 +5,8 @@ Se controlan desde los pines con capacidad PWM
 ![pines PWM](./images/Raspberry_pi_3_PWMpins.png)
 
 
+Pines: GPIO12, GPIO13, GPIO18, GPIO19
+
 Necesitan un pulso cada 20 ms, su duración indica el ángulo:
 * 1 ms indica 0º
 * 2 ms indica 180º
