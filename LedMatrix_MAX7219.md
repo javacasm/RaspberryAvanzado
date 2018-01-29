@@ -10,6 +10,8 @@
 
 [Libreria para MAX7219, neopixel, 7-segments](https://github.com/rm-hull/luma.led_matrix)
 
+Instalamos luma.core https://github.com/rm-hull/luma.core (sudo pip -i ./)
+
 [Documentaci'on](https://luma-led-matrix.readthedocs.io/en/latest/)
 
 [PRoblemas con la instalacion de luma.core](http://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/)
