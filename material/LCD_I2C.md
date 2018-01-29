@@ -27,7 +27,7 @@ Y ejecutamos la herramienta para detectar dispositivos i2C y su correspondiente 
 
 Vemos que se ha detectado el LCD en la dirección 0x27
 
-Usaremos el codigo de [I2C_LCD_driver.py](./I2C_LCD_driver.py)
+Usaremos el codigo de [I2C_LCD_driver.py](./codigo/I2C_LCD_driver.py)
 
 Para probar a ver si funciona todo
 
