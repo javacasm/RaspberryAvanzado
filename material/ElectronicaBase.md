@@ -33,4 +33,6 @@ Esquemas y diagramas
 
 ## Recursos
 
+
+[Electronica desde 0](https://www.raspberrypi.org/magpi-issues/MagPi_Mini_Spanish_03.pdf)
 [The MagPi 64](https://www.raspberrypi.org/magpi-issues/MagPi64.pdf)
