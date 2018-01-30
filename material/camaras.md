@@ -14,6 +14,7 @@ https://www.thingiverse.com/groups/i3/forums/general/topic:5520
 
 [Kaleidoscopio](https://github.com/Grumpy-Mike/Mikes-Pi-Bakery/tree/master/Kaleido_Cam)
 
+[Macroscopio con raspberry (usa pygame)](http://www.instructables.com/id/RPi-MacroScope/)
 
 ## Recursos
 
