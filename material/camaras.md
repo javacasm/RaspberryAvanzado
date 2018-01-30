@@ -9,3 +9,8 @@ https://www.thingiverse.com/groups/i3/forums/general/topic:5520
 
 [Vídeo: Herramienta para cambiar el enfoque](https://www.youtube.com/watch?v=yVLbAxlPVtg)
 [Herramientas para cambiar enfoque](https://www.thingiverse.com/thing:1574661/#files)
+
+
+## Recursos
+
+[MagPi Camera Guide](https://www.raspberrypi.org/magpi-issues/Essentials_Camera_v1.pdf)
