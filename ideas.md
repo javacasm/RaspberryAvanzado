@@ -20,24 +20,12 @@ http://www.makeuseof.com/tag/lightweight-operating-systems-raspberry-pi/
 
 [Cámara]
 
-[Cámara termica](http://www.instructables.com/id/PiEyeR-Enhanced-Thermal-Camera/)
 
-[OpenCV](http://www.visioncr.es/index.php/talleres-2/)
 
 ## [Electrónica]
 
-ADCs
 
-Montajes
 
-[Excelente guía](https://bricolabs.cc/wiki/guias/raspberry_gpio)
-
-[GPIO Expander](https://www.raspberrypi.org/blog/gpio-expander)
-
-[Etiquetas](https://es.aliexpress.com/store/product/WEMOS-GPIO-Reference-Card-V1-0-0-for-Raspberry-Pi-Model-B-Pi-2-Pi-3/1331105_32787522447.html)
-
-[Manual del kit de electrónica](https://www.velleman.eu/downloads/29/vmp502_a4v01.pdf)
-[Código de los ejemplos (python y c++)](https://www.velleman.eu/downloads/files/downloads/vmp502_code_pi.zip)
 
 [Android of things: raspberry controlled car](https://www.survivingwithandroid.com/2017/12/building-a-remote-controlled-car-using-android-things-gpio.html)
 
@@ -46,15 +34,7 @@ Montajes
 
 Linux avanzado
 Copia de seguridad de SDs
-Cluster https://www.raspberrypi.org/blog/raspberry-pi-clusters-come-of-age/
-### Instalación
-Web Server (Apache) en Raspberry PI.
-http://blog.bricogeek.com/noticias/raspberry-pi/tutorial-convierte-tu-raspberry-pi-en-un-servidor-web-en-10-minutos/
-Base de datos MySQL en Raspberry PI.
 
-[local cloud](http://www.instructables.com/id/Make-Your-Pi-a-Local-Cloud-Server/)
-
-Tu nube https://syncthing.net/
 
 ## Alimentación
 
