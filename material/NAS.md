@@ -12,4 +12,4 @@ Tu nube https://syncthing.net/
 
 ## Raid
 
-https://raspberryparatorpes.net/proyectos/nas-casero-avanzado-disco-raid-en-raspberry-pi/
+https://raspberryparatorpes.net/proyectos/nas-casero-avanzado-disco-raid-en-raspberry-pi/w
