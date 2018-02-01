@@ -29,10 +29,18 @@ Esquemas y diagramas
 * MAX 7219 Módulo Matriz 8x8
 * Servomotor SG-90
 
-[Documetnacion del kit](http://tienda.bricogeek.com/accesorios-raspberry-pi/1001-kit-de-aprendizaje-raspberry-pi-basico.html)
+
+[Manual del kit de electrónica](https://www.velleman.eu/downloads/29/vmp502_a4v01.pdf)
+[Código de los ejemplos (python y c++)](https://www.velleman.eu/downloads/files/downloads/vmp502_code_pi.zip)
+[Documentación del kit](http://tienda.bricogeek.com/accesorios-raspberry-pi/1001-kit-de-aprendizaje-raspberry-pi-basico.html)
 
 ## Recursos
 
+[Excelente guía](https://bricolabs.cc/wiki/guias/raspberry_gpio)
+
+[GPIO Expander](https://www.raspberrypi.org/blog/gpio-expander)
+
+[Etiquetas](https://es.aliexpress.com/store/product/WEMOS-GPIO-Reference-Card-V1-0-0-for-Raspberry-Pi-Model-B-Pi-2-Pi-3/1331105_32787522447.html)
 
 [Electronica desde 0](https://www.raspberrypi.org/magpi-issues/MagPi_Mini_Spanish_03.pdf)
 [The MagPi 64](https://www.raspberrypi.org/magpi-issues/MagPi64.pdf)
