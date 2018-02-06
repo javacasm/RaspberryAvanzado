@@ -13,4 +13,4 @@
 
 [OpenCV](http://www.visioncr.es/index.php/talleres-2/)
 
-[](https://www.packtpub.com/free-ebook/opencv-python)
+[Libro gratuito sobre openCV](https://www.packtpub.com/free-ebook/opencv-python)
