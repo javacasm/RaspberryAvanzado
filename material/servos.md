@@ -76,6 +76,10 @@ Usaremos el siguiente codigo para mover python
                     time.sleep(delay_period)
 
 
+## Proyectos
+
+[Pan&Tilt](https://www.instructables.com/id/Pan-Tilt-Multi-Servo-Control)
+
 ## Referencias
 
 [Tutorial Adafruit by Simon Monk](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor?view=all)
