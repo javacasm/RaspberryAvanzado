@@ -1,9 +1,13 @@
 # Neopixels
 
+wx2811 y wx2811b
+
+![wx2811b](https://i.imgur.com/y2lj3dp.png)
+
 
 [Tutorial adafruit](https://learn.adafruit.com/neopixels-on-raspberry-pi/software)
 
-Usaremos la liberria rpi_ws281x que la que permite usar los Neopixels en la raspberry
+Usaremos la libreria rpi_ws281x que la que permite usar los Neopixels en la raspberry
 
 
 Actualizamos
