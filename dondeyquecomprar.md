@@ -39,8 +39,13 @@ Mejor un kit
 * Hub USB alimentado externamente (para evitar cargar demasiado a la Raspberry)
 
 
+
+
 ## ¿Dónde encontrarlos?
 
+* [Kit raspbery Pi](http://inven.es/raspberry-pi/368-inven-pi3-kit-raspberry-pi-3-basico.html)
+
+* [Kit electrónica](http://inven.es/raspberry-pi/370-inven-pi3-kit-raspberry-pi-3-electronica.html)
 * [Kit base](http://www.electan.com/kit-raspberry-con-caja-alimentador-microsd-hdmi-usb-p-6584.html)
 * [Shield electronica](http://tinkersphere.com/raspberry-pi-hats/633-starter-raspberry-pi-led-hat.html)
 * [Kit amazon 1](http://www.amazon.es/s/ref=sr_pg_2?rh=i%3Aaps%2Ck%3Araspberry+pi+2+kit+starter&page=2&sort=price-asc-rank&keywords=raspberry+pi+2+kit+starter&ie=UTF8&qid=1449858467)
