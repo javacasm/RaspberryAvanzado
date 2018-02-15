@@ -33,11 +33,12 @@ Febrero-Marzo 2018
 
 ## [Documentacion](./documentacion.md)
 
-## [¿Dónde y qué comprar?](./dondeyquecomprar.md)
+## [Introducción](./introduccion.md)
 
+## [Administracion](./Administracion.md)
 
-## Kit
+## [Programación](./Programacion.md)
 
-[Kit raspbery Pi](http://inven.es/raspberry-pi/368-inven-pi3-kit-raspberry-pi-3-basico.html)
+## [Electronica](./Electronica.md)
 
-[Kit electrónica](http://inven.es/raspberry-pi/370-inven-pi3-kit-raspberry-pi-3-electronica.html)
+## [RaspiFAQ](./RaspiFAQ.md)
