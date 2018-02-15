@@ -12,6 +12,12 @@ Febrero-Marzo 2018
 ![CC](./images/Licencia_CC.png)
 
 
+## Kit
+
+[Kit raspbery Pi](http://inven.es/raspberry-pi/368-inven-pi3-kit-raspberry-pi-3-basico.html)
+
+[Kit electrónica](http://inven.es/raspberry-pi/370-inven-pi3-kit-raspberry-pi-3-electronica.html)
+
 
 # Kit Electrónica
 
