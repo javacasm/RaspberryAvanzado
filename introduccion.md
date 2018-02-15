@@ -18,3 +18,5 @@ Febrero-Marzo 2018
 ## [Equipo necesario](./equipo.md)
 
 ## [¿Dónde y qué comprar?](./dondeyquecomprar.md)
+
+## [Sistemas operativos](./sos.md)
