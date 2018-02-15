@@ -15,3 +15,12 @@ Febrero-Marzo 2018
 
 
 ## [Instalación](./instalacion.md)
+
+## [Matenimiento](./mantenimiento.md)
+
+## Acceso remoto
+
+### ssh
+
+
+### VNC
