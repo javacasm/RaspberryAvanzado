@@ -41,6 +41,10 @@ Febrero-Marzo 2018
 
 ## [Electronica](./Electronica.md)
 
+## [Proyectos](./Proyectos.md)
+
 ## [RaspiFAQ](./RaspiFAQ.md)
+
+## [Problemas](./problemas.md)
 
 ## [Documentacion](./documentacion.md)
