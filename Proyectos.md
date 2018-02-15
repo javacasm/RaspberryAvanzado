@@ -13,4 +13,4 @@ Febrero-Marzo 2018
 
 # Proyectos
 
-[Botón on/onff](./Boton_encendido-apagado.md.md)
+[Botón on/onff](./Boton_encendido-apagado.md)

@@ -11,9 +11,6 @@ Febrero-Marzo 2018
 
 ![CC](./images/Licencia_CC.png)
 
-# Utilizando scripts
-
-Los scripts son ficheros donde colocamos distintas órdenes que se irán realizando de forma consecutiva una tras otra
 
 ## Usando la cámara
 
