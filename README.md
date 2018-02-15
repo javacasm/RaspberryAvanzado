@@ -31,8 +31,6 @@ Febrero-Marzo 2018
 * Realizar montajes de proyectos que mezclan electrónica y programación
 * Crear robots móviles sencillos
 
-## [Documentacion](./documentacion.md)
-
 ## [Introducción](./introduccion.md)
 
 ## [Administracion](./Administracion.md)
@@ -42,3 +40,5 @@ Febrero-Marzo 2018
 ## [Electronica](./Electronica.md)
 
 ## [RaspiFAQ](./RaspiFAQ.md)
+
+## [Documentacion](./documentacion.md)
