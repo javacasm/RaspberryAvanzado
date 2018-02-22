@@ -11,6 +11,8 @@ https://github.com/battosai30/MCP3424
 
 ## PCF8591
 
+[Tutorail](http://www.diverteka.com/?p=1814)
+
 
 [Detalles del código en python de control del PCF8561](https://raspberrypi.stackexchange.com/questions/36983/how-to-change-read-channels-on-pcf8591)
 
