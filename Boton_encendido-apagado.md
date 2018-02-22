@@ -36,7 +36,7 @@ Si es necesario instalar el módulo GPIO hacemos
 
     sudo apt-get install python-dev python-rpi.gpio
 
-El código sería:
+El código usando la libreria RPi.GPIO sería:
 
     #!/usr/bin/env python
 
@@ -50,6 +50,19 @@ El código sería:
     GPIO.wait_for_edge(3, GPIO.FALLING)
 
     subprocess.call(['shutdown', '-h', 'now'], shell=False)
+
+Usando la libreria gpiozero
+
+    #!/usr/bin/env python
+
+    import subprocess
+
+    from gpiozero import Button
+    button = Button(3)
+    button.wait_for_press()
+
+    subprocess.call(['shutdown', '-h', 'now'], shell=False)
+
 
 Ahora damos permisos de ejecución
 
