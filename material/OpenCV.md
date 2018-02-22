@@ -15,6 +15,8 @@
 
 [Contando objetos en movimiento](https://www.hackster.io/phfbertoleti/counting-objects-in-movement-using-raspberry-pi-opencv-015ba5)
 
+[Deteccion numeros](https://www.mkompf.com/cplus/emeocv.html)
+
 ## Recursos
 2 libros en packpub
 
