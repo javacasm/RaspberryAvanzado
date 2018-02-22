@@ -32,6 +32,12 @@ Para el apagado podemos usar un script que vigile (mediante interrupciones para 
 
 El script (_listen-for-shutdown.py_) para detectar la pulsación del botón es muy sencillo (tomado del [tutorial de howchoo](https://howchoo.com/g/mwnlytk3zmm/how-to-add-a-power-button-to-your-raspberry-pi) )
 
+Si es necesario instalar el módulo GPIO hacemos
+
+    sudo apt-get install python-dev python-rpi.gpio
+
+El código sería:
+
     #!/usr/bin/env python
 
 
