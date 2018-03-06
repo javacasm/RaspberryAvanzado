@@ -28,6 +28,25 @@ Febrero-Marzo 2018
 [Proyectos de Computación física](https://projects.raspberrypi.org/en/projects?technologies%5B%5D=physical%20computing)
 
 
+[GPIO Con Scratch](https://projects.raspberrypi.org/en/projects/physical-computing-with-scratch)
+
+## Programación
+
+[Programación de Interface de usuario GUI](https://projects.raspberrypi.org/en/projects/getting-started-with-guis)
+
+[API Rest: predicciones meteorológicas](https://projects.raspberrypi.org/en/projects/fetching-the-weather)
+
+
+[Midiendo el tiempo de reacci'on](https://projects.raspberrypi.org/en/projects/python-quick-reaction-game)
+
+# Sonic-Pi
+
+[Programacion con Sonic-Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi)
+
+## Proyectos con Sonic-Pi
+
+https://projects.raspberrypi.org/en/projects/ultrasonic-theremin
+
 
 
 ## Instalacion de servicios
