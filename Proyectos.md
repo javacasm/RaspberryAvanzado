@@ -17,8 +17,9 @@ Febrero-Marzo 2018
 
 [Computación física con python](https://projects.raspberrypi.org/en/projects/physical-computing)
 
-[Pantalla LCD I2C](./LCD_I2C.md)
+[Pantalla LCD I2C](./material/LCD_I2C.md)
 
+[Conversor ADC](./material/ADC.md)
 
 [Control de motores](./Motores.md)
 
