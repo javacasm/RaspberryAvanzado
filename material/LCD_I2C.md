@@ -41,50 +41,50 @@ Para probar a ver si funciona todo
 Un ejemplo sencillo para hacer que parpadee un texto
 
 
-  import time
-  import I2C_LCD_driver
-  mylcd = I2C_LCD_driver.lcd()
+    import time
+    import I2C_LCD_driver
+    mylcd = I2C_LCD_driver.lcd()
 
-  while True:
-      mylcd.lcd_display_string(u"TEXTO PARPADEANTE")
-      time.sleep(1)
-      mylcd.lcd_clear()
-      time.sleep(1)
+    while True:
+        mylcd.lcd_display_string(u"TEXTO PARPADEANTE")
+        time.sleep(1)
+        mylcd.lcd_clear()
+        time.sleep(1)
 
 
 Mostrar la fecha y la hora
 
-    import I2C_LCD_driver
-    import time
-    mylcd = I2C_LCD_driver.lcd()
+      import I2C_LCD_driver
+      import time
+      mylcd = I2C_LCD_driver.lcd()
 
 
-    while True:
-        mylcd.lcd_display_string("Hora: %s" %time.strftime("%H:%M:%S"), 1)
+      while True:
+          mylcd.lcd_display_string("Hora: %s" %time.strftime("%H:%M:%S"), 1)
 
-        mylcd.lcd_display_string("Fecha: %s" %time.strftime("%d/%m/%Y"), 2)
+          mylcd.lcd_display_string("Fecha: %s" %time.strftime("%d/%m/%Y"), 2)
 
 
 Para mostrar la dirección IP, algo muy útil si no tenemas conectada pantalla
 
-  import I2C_LCD_driver
-  import socket
-  import fcntl
-  import struct
+    import I2C_LCD_driver
+    import socket
+    import fcntl
+    import struct
 
-  mylcd = I2C_LCD_driver.lcd()
+    mylcd = I2C_LCD_driver.lcd()
 
-  def get_ip_address(ifname):
-      s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-      return socket.inet_ntoa(fcntl.ioctl(
-          s.fileno(),
-          0x8915,
-          struct.pack('256s', ifname[:15])
-      )[20:24])
+    def get_ip_address(ifname):
+        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        return socket.inet_ntoa(fcntl.ioctl(
+            s.fileno(),
+            0x8915,
+            struct.pack('256s', ifname[:15])
+        )[20:24])
 
-  mylcd.lcd_display_string("IP Address:", 1)
+    mylcd.lcd_display_string("IP Address:", 1)
 
-  mylcd.lcd_display_string(get_ip_address('eth0'), 2)
+    mylcd.lcd_display_string(get_ip_address('eth0'), 2)
 
 
 Más ejemplos en [la fuente original](http://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/)
