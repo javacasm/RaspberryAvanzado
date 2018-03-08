@@ -55,10 +55,26 @@ https://projects.raspberrypi.org/en/projects/ultrasonic-theremin
 
 [Instalación de LAMP](https://projects.raspberrypi.org/en/projects/lamp-web-server-with-wordpress)
 
+[Web Server (Apache) en Raspberry PI](http://blog.bricogeek.com/noticias/raspberry-pi/tutorial-convierte-tu-raspberry-pi-en-un-servidor-web-en-10-minutos/)
+
 [Botón on/onff](./Boton_encendido-apagado.md)
 
 [Control de ventilador por temperatura](./control-fan.md)
 
+[NAS](./material/NAS.md)
+
+[Instalación de MariaDB](https://howtoraspberrypi.com/mariadb-raspbian-raspberry-pi/)
+
 ## Integración
 
 [Controlando la Raspberry desde Telegram](./bot_telegram.md)
+
+[Estado de una linea de metro con Neopixel](http://www.scienceexposure.com/raspberry-pi/london-underground-line-status-neopixels/)
+
+[Tiempo para que llegue un bus en lcd](http://www.scienceexposure.com/raspberry-pi/build-london-bus-ticker-using-raspberry-pi/)
+
+## Proyectos con la cámara
+
+[Kaleidoscopio](https://github.com/Grumpy-Mike/Mikes-Pi-Bakery/tree/master/Kaleido_Cam)
+
+[Macroscopio con raspberry (usa pygame)](http://www.instructables.com/id/RPi-MacroScope/)
