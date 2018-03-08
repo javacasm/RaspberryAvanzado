@@ -1,9 +1,13 @@
 Control con teclas
 
+  import getch
+
+  char = getch.getch()
+
   while True:
       # Keyboard character retrieval method is called and saved
       # into variable
-      
+
       char = getch()
 
       # The car will drive forward when the "w" key is pressed
