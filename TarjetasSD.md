@@ -24,3 +24,16 @@
 ## Linux
 
 [Uso de compresión para imágenes](http://www.linuxweblog.com/dd-image)
+
+
+## Imágenes con todo instalado
+
+[Imagen de 16Gb](https://drive.google.com/open?id=1NdKMl2-K0YoaexgrHVVbpullZbci7TOc)
+[Imagen de 8Gb](https://drive.google.com/open?id=1RlXLZYrvds83ryIP1t_4Rz5XcpTdmNyJ)
+
+
+Para grabarla en la tarjeta SD (del tamaño adecuado) podemos usar [etcher](https://etcher.io/)
+
+o
+
+    gunzip -c fichero.gz | dd of=/dev/UNIDADTARJETA conv=sync,noerror status=progress bs=10M
