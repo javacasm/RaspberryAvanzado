@@ -27,44 +27,45 @@ while True:
 
   # The car will drive forward when the "w" key is pressed
   if(char == "w"):
-       robot.forward(speed)
+      print("forward")
+      robot.forward(speed)
 
   # The car will reverse when the "z" key is pressed
   if(char == "z"):
+      print("backward")
       robot.backward(speed)
 
   # The "a" key will toggle the steering left
   if(char == "a"):
+      print("left")
       robot.left(speed)
 
   # The "d" key will toggle the steering right
   if(char == "d"):
+      print("right")
       robot.right(speed)
 
   # The "s" key will  stop the car
   if(char == "s"):
+      print("stop")
       robot.stop()
 
   # The "1" key will toggle  lowest speed
   if(char == "1"):
+      print("speed:0.1")
       speed = 0.1
 
   # The "5" key will toggle  medium speed
   if(char == "5"):
+      print("speed:0.5")
       speed = 0.5
 
   # The "9" key will toggle  hiwest speed
   if(char == "9"):
+      print("speed:0.9")
       speed = 0.9
 
-
-
-
-  # The "l" key will toggle the LEDs on/off
-  if(char == "l"):
-      toggleLights()
-
-  # The "x" key will break the loop and exit the program
+  # The "q" key will break the loop and exit the program
   if(char == "q"):
       print("Program Ended")
       break
