@@ -17,7 +17,7 @@ robot = Robot(left = (7, 8), right = (9, 10))
 
 speed = 0.4
 
-print("Usar:\n\tw forward\n\ts stop\n\td leftt\n\ta right\n\tz backward\n\t1,5,9  speed\n\tq quit\n")
+print("Usar:\n\tw forward\n\ts stop\n\td left\n\ta right\n\tz backward\n\t1,3,5,7,9  speeds\n\tq quit\n")
 
 while True:
   # Keyboard character retrieval method is called and saved
@@ -54,6 +54,16 @@ while True:
   if(char == "1"):
       print("speed:0.1")
       speed = 0.1
+
+  # The "1" key will toggle  lowest speed
+  if(char == "3"):
+      print("speed:0.3")
+      speed = 0.3
+
+  # The "1" key will toggle  lowest speed
+  if(char == "7"):
+      print("speed:0.7")
+      speed = 0.17
 
   # The "5" key will toggle  medium speed
   if(char == "5"):
