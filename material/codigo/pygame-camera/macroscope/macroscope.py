@@ -134,7 +134,7 @@ def takePicture():
 def takeVideo():
     global msgPostTime
     new_name = getFileName()
-    o = camera.add_overlay(red_dot.tobytes(), size=red_dot.size, layer=3)
+    #o = camera.add_overlay(red_dot.tobytes(), size=red_dot.size, layer=3)
     camera.annotate_text = ''
     camera.start_recording('%s.h264' % new_name)
     print('recording')
@@ -179,9 +179,9 @@ def takeSequence(seconds):
                         print('end sequence')
                         return
 
-red_dot = Image.open('red_dot.png')
-green_dot = Image.open(os.path.join('macroscope', 'green_dot.png'))
-help = Image.open(os.path.join('macroscope', 'help.png'))
+#red_dot = Image.open('red_dot.png')
+#green_dot = Image.open(os.path.join('macroscope', 'green_dot.png'))
+#help = Image.open(os.path.join('macroscope', 'help.png'))
 
 while True:
     # button handling
