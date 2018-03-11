@@ -152,7 +152,7 @@ def takeVideo():
                     GPIO.output(LEDring, GPIO.LOW)
                     sys.exit()
 
-    os.system('sudo MP4Box -add %s.h264 %s.mp4' % (new_name, new_name)) 
+    os.system('sudo MP4Box -add %s.h264 %s.mp4' % (new_name, new_name))
     camera.annotate_text = 'Converted to %s.mp4' % new_name
     msgPostTime = datetime.now()
 
@@ -179,7 +179,7 @@ def takeSequence(seconds):
                         print('end sequence')
                         return
 
-red_dot = Image.open(os.path.join('macroscope', 'red_dot.png'))
+red_dot = Image.open('red_dot.png')
 green_dot = Image.open(os.path.join('macroscope', 'green_dot.png'))
 help = Image.open(os.path.join('macroscope', 'help.png'))
 
@@ -261,7 +261,7 @@ while True:
                 GPIO.output(18, GPIO.LOW)
                 dirList = os.listdir('/media/pi')
                 if dirList:
-                    os.system('sync') 
+                    os.system('sync')
                     os.system('sudo umount /media/pi/%s' % dirList[0])
                 pygame.quit()
                 sys.exit()
