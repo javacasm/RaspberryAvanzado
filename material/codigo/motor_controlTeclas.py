@@ -1,6 +1,5 @@
 # Control del robot con teclas
 
-import getch
 import sys, tty, termios, time
 from gpiozero import Robot
 
