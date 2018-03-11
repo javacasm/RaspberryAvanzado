@@ -84,7 +84,7 @@ def getFileName():
     if dirList:
         os.chdir('/media/pi/%s' % dirList[0])
     else:
-        os.chdir('/boot')
+        os.chdir('./')
 
     if not os.path.isdir(ds):
         os.mkdir(ds)
