@@ -74,6 +74,13 @@ https://projects.raspberrypi.org/en/projects/ultrasonic-theremin
 [Tiempo para que llegue un bus en lcd](http://www.scienceexposure.com/raspberry-pi/build-london-bus-ticker-using-raspberry-pi/)
 
 ## Proyectos con la cámara
+[Introduccion a PyCamera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
+
+[Timelapse con la camara](https://projects.raspberrypi.org/en/projects/raspberry-pi-zero-time-lapse-cam/7)
+
+[Tutorial Pygame](http://www.pygame.org/docs/tut/CameraIntro.html)
+
+[OpenCV](./material/OpenCV.md)
 
 [Kaleidoscopio](https://github.com/Grumpy-Mike/Mikes-Pi-Bakery/tree/master/Kaleido_Cam)
 
