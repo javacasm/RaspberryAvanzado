@@ -87,13 +87,3 @@ https://projects.raspberrypi.org/en/projects/ultrasonic-theremin
 [Macroscopio con raspberry (usa pygame)](http://www.instructables.com/id/RPi-MacroScope/)
 
 ## Programacion
-
-datos graficos  capitulo 7  del libro cookbook para python programmer
-
-codigo QR cn la camara capitulo 8 del libro cookbook para python programmer
-
-ultrasonidos capitulo 9 del libro cookbook para python programmer
-
-brujula  capitulo 9 del libro cookbook para python programmer
-
-SPI matrix capitulo 10
