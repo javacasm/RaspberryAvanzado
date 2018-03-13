@@ -16,10 +16,12 @@
 [Formateo de SD en Windows](https://www.raspberrypi.org/learning/software-guide/quickstart/)
 
 
+
+
 ## Clonado de tarjetas
 
 
-[Clonado de tarjetas en Linux, MacOS y Winfows](https://beebom.com/how-clone-raspberry-pi-sd-card-windows-linux-macos/)
+[Clonado de tarjetas en Linux, MacOS y Windows](https://beebom.com/how-clone-raspberry-pi-sd-card-windows-linux-macos/)
 
 ## Linux
 
