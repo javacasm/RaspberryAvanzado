@@ -133,5 +133,10 @@ python
 ## y veremos
 ## '3.4.1'
 
+
+## completamos los ficheros de los ejemplos
+
+sudo cp -r data gpu hal java open* tapi va_intel/ winrt* wp8/ cpp android/ directx/ dnn  /usr/local/share/OpenCV/samples/
+
 ## Borramos el codigo para recuperar espacio
 rm -rf opencv-3.4.1 opencv_contrib-3.4.1
