@@ -105,4 +105,38 @@ sudo /etc/init.d/dphys-swapfile start
 
 ## Compilamos OpenCV
 
-make -j4
+make -j1 
+
+## funcionará más rápido con  make  -j4 pero puede dar más errores al usar los 4 cores
+
+## lo instalamos
+
+sudo make install 
+sudo ldconfig
+
+##  comprobamos que se ha instalado correctamente
+
+cd /usr/local/lib/python3.5/site-packages/
+sudo mv cv2.cpython-35m-arm-linux-gnueabihf.so cv2.so
+
+## enlazamos a nuestro entorno virtual
+
+cd ~/.virtualenvs/cv3/lib/python3.5/site-packages/
+ln -s /usr/local/lib/python3.5/site-packages/cv2.so cv2.so
+
+## Para probar
+
+python
+## y desde dentro: 
+## >>> import cv2
+## >>> cv2.__version__
+## y veremos
+## '3.4.1'
+
+
+## completamos los ficheros de los ejemplos
+
+sudo cp -r data gpu hal java open* tapi va_intel/ winrt* wp8/ cpp android/ directx/ dnn  /usr/local/share/OpenCV/samples/
+
+## Borramos el codigo para recuperar espacio
+rm -rf opencv-3.4.1 opencv_contrib-3.4.1
