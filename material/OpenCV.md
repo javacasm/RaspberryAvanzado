@@ -13,6 +13,10 @@
 
 [Imagen de raspbian con openCV 3.4.1](https://drive.google.com/open?id=1FpOGfQcIe6X79lLWSuceL0VP7L7bPrJ1)
 
+[Detección de movimientos con openCV (programarfacil)](https://programarfacil.com/blog/vision-artificial/deteccion-de-movimiento-con-opencv-python/)
+
+[Detector de bordes (programarfacil)](https://programarfacil.com/blog/vision-artificial/detector-de-bordes-canny-opencv/)
+
 ## Proyectos
 
 [Seguimiento de caras](http://www.instructables.com/id/Pan-Tilt-face-tracking-with-the-raspberry-pi/)
@@ -32,3 +36,9 @@
 [OpenCV](http://www.visioncr.es/index.php/talleres-2/)
 
 [Libro gratuito sobre openCV](https://www.packtpub.com/free-ebook/opencv-python)
+
+[Libro de programarfacil](./recursos/ebook-introduccion-vision-artificial.pdf)
+
+[OpenCV 3 Blueprints](https://www.packtpub.com/mapt/book/all_books/9781784399757)
+
+[Raspberry Pi Computer vision](https://www.packtpub.com/mapt/book/all_books/9781784398286/3/ch03lvl1sec25/exercise)
