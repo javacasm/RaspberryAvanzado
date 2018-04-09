@@ -36,6 +36,12 @@ Modificamos el fichero /boot/config.txt
     hdmi_cvt=1024 600 60 3 0 0 0
 
 
+##  Pantallas pequeñas
+
+[Mini Pal Display](https://learn.adafruit.com/using-a-mini-pal-ntsc-display-with-a-raspberry-pi?view=all)
+
+[Test Mini Pal Display](https://learn.adafruit.com/using-a-mini-pal-ntsc-display-with-a-raspberry-pi/configure-and-test)
+
 ## Referencias
 
 [Foro](https://www.raspberrypi.org/forums/viewtopic.php?t=163810)
